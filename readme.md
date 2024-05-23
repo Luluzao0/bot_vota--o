@@ -30,4 +30,12 @@
 
 # Não se sente seguro em executar o código ? 
 
-    Acesse o link: [VirusTotal](https://www.virustotal.com/gui/home/upload)
+    Acesse o link: [https://www.virustotal.com/gui/home/upload]
+
+
+# Gostou do projeto ?
+
+    * [Site](https://www.luisaodev.tech/) 
+    * [Github](https://gitlab.com/Luluzao0)
+    * [Linkedin](https://www.linkedin.com/in/1lgl/)
+
