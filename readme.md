@@ -22,3 +22,12 @@
 # Caso tenha alguma ideia a implementar:
     
     --> Crie uma Issue e diga suas melhorias.
+
+# Caso tenha dificuldade de acessar o Download do ChromeDriver:
+
+    Disponibilizado na estrutura do projeto.
+
+
+# Não se sente seguro em executar o código ? 
+
+    Acesse o link: [VirusTotal](https://www.virustotal.com/gui/home/upload)
